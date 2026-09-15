@@ -2,7 +2,7 @@
 
 # 1. Introdução
 
-## 1.1 Objetivo do documento:
+## 1.1 Objetivo do documento
   
   Este Documento de Visão tem como objetivo definir, alinhar e detalhar o escopo, as diretrizes estratégicas e os requisitos fundamentais para o desenvolvimento da plataforma web/front-end da *__PKZ e One to One__*. 
  
@@ -20,3 +20,7 @@ Este documento contempla os diferentes perfis de usuários que interagirão com 
 *__Alunos Adultos (One to One – 17 a 90 anos)__*: Praticantes de musculação e treinamento convencional que buscam uma interface objetiva e de fácil acesso para visualizar informações sobre seus treinos e horários.
 
 *__Equipe de Desenvolvimento Front-End e Designers UX/UI__*: Desenvolvedores e designers responsáveis por construir o layout, aplicar o design system e implementar as interações de tela descritas neste documento.
+
+## Escopo do Sistema
+
+### No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados a PKZ.
