@@ -34,6 +34,20 @@ Website Institucional e Landing Page de Conversão:
 
 * Galeria de Fotos do Espaço: Exibição de ambientes internos e equipamentos para valorização da estrutura.
 
+* Seção de Dúvidas Frequentes (FAQ): Componente sanando dúvidas sobre metodologias, modalidades esportivas e horários, omitindo intencionalmente tabelas de preços estáticas.
+
+* Pontos de Conversão (CTAs): Botões e formulários diretos integrados ao WhatsApp para agendamento de aulas experimentais e atendimento personalizado.
+
+### Design System e Interface (UI/UX):
+
+* Identidade Visual: Aplicação rigorosa da paleta de cores institucional (predominância de azul e branco). Sendo a paleta de cores da __One to One e PKZ__ compostas por: #b3ecff, #00bbff, #014c6f, #000000.
+
+* Componentes Reutilizáveis: Construção de botões, cards, modais e formulários padronizados.
+
+* Responsividade: Layout adaptável para dispositivos móveis, tablets e desktops.
+
+
 ---
  **No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados à PKZ.**
 ---
+
