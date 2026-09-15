@@ -34,4 +34,6 @@ Website Institucional e Landing Page de Conversão:
 
 * Galeria de Fotos do Espaço: Exibição de ambientes internos e equipamentos para valorização da estrutura.
 
-#### No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados à PKZ.
+---
+ **No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados à PKZ.**
+---
