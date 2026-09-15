@@ -23,4 +23,15 @@ Este documento contempla os diferentes perfis de usuários que interagirão com 
 
 ## Escopo do Sistema
 
-### No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados a PKZ.
+O escopo desta aplicação abrange exclusivamente o desenvolvimento front-end da plataforma web da PKZ One to One, contemplando o layout, os componentes de interface, a responsividade e o comportamento no lado do cliente (client-side).
+
+### 1.3.1 Funcionalidades e Telas Incluídas no Escopo
+Website Institucional e Landing Page de Conversão:
+
+* Apresentação Institucional: Interface demonstrando a marca unificada PKZ One to One e a divisão operacional dos espaços físicos.
+
+* Segmentação Visual de Marcas: Seções dedicadas para diferenciação clara entre a PKZ (treinamento complexo e alto rendimento infanto-juvenil) e a One to One (musculação e condicionamento para adultos).
+
+* Galeria de Fotos do Espaço: Exibição de ambientes internos e equipamentos para valorização da estrutura.
+
+#### No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados à PKZ.
