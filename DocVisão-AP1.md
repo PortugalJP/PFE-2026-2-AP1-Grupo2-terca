@@ -51,3 +51,8 @@ Website Institucional e Landing Page de Conversão:
  **No dia 15/09/2026, à fim de nos informar, foi-nos dito pelo cliente que em virtude de não haver um manual de marca específico para a PKZ, poderíamos utilizar as mesmas instruções de marca da One to One nos projetos relacionados à PKZ.**
 ---
 
+# 2. Posicionamento
+
+## 2.1 Oportunidades de Mercado
+
+O mercado de preparação física e academias de alto rendimento enfrenta desafios constantes na comunicação visual de valor, na retenção de alunos e na clareza na prestação de contas dos resultados obtidos. A plataforma web da PKZ One to One surge para capitalizar as seguintes oportunidades estratégicas por meio de uma experiência front-end moderna e centralizada:
