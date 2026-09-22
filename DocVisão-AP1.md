@@ -65,3 +65,17 @@ Alto volume de mensagens no WhatsApp perguntando sobre funcionamento, horários 
 * Falta de Clareza na Diferenciação das Marcas (PKZ vs. One to One):
 Dificuldade do público em compreender que, embora façam parte da mesma estrutura, a PKZ foca no público infanto-juvenil com treino complexo e a One to One atende o público adulto com musculação e treino convencional.
 
+## 2.3 Proposta de Solução
+
+A plataforma web front-end resolverá esses problemas por meio de uma experiência de usuário (UX) estruturada e focada em clareza, conversão e acompanhamento didático:
+
+* __Landing Page de Alta Conversão com FAQ Dinâmico:__
+Criação de uma seção de dúvidas frequentes que responde claramente sobre metodologia e horários e inserindo botões de ação (CTAs) estratégicos para agendamento de aula experimental e negociação personalizada via WhatsApp.
+
+* __Segmentação Visual e Intuitiva das Marcas:__
+Desenvolvimento de uma arquitetura de navegação com páginas e blocos específicos para PKZ (7 a 15 anos) e One to One (17 a 90 anos), permitindo que cada perfil de visitante identifique instantaneamente a proposta adequada às suas necessidades.
+
+* __Design System Unificado e Galeria de Fotos:__
+Aplicação do design system institucional (predominância de azul e branco) combinado a uma galeria de imagens atualizadas do espaço físico e equipamentos, transmitindo profissionalismo e modernidade.
+
+-------
