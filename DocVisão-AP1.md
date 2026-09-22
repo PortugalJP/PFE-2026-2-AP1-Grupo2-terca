@@ -85,6 +85,33 @@ Desenvolvimento de uma arquitetura de navegação com páginas e blocos específ
 Aplicação do design system institucional (predominância de azul e branco) combinado a uma galeria de imagens atualizadas do espaço físico e equipamentos, transmitindo profissionalismo e modernidade.
 
 -------
+### 4. Visão Geral do Produto
+
+O produto a ser desenvolvido é um site institucional com múltiplas páginas que centraliza a presença digital de uma empresa esportiva detentora de duas academias: a **PKZ** (foco em atletas de alto rendimento infanto-juvenis, de 7 a 16 anos) e a **One-to-One** (foco em atletas amadores e público em geral de 17+ anos buscando saúde e condicionamento). O objetivo da interface é distribuir essas informações de forma organizada, deixando claro que ambas as frentes fazem parte da mesma metodologia e do mesmo ecossistema, direcionando o usuário para o serviço correto.
+
+**Principais funcionalidades**
+No contexto da interface e da interação do usuário (Front-End), o sistema contará com:
+
+* **Identidade Visual Unificada:** Uma estrutura de navegação distribuída em várias páginas, mas com um design que não fará divisões abruptas de marca. A interface utilizará os mesmos padrões visuais, paleta de cores e tipografia em todo o site para reforçar ao público que a PKZ e a One-to-One são a mesma empresa, trabalhando juntas de forma coesa.
+
+* **Apresentação de Metodologia e Corpo Docente:** Páginas ou seções da interface dedicadas a exibir de forma clara os professores e a forma como trabalham. Isso será construído visualmente com galerias e *cards* informativos que destacam a especialidade de cada profissional.
+
+* **Módulo de Dúvidas Frequentes (FAQ) Interativo:** Implementação de um componente *Accordion* (sanfona interativa), permitindo que o visitante clique nas perguntas para expandir as respostas, mantendo a página limpa e organizada.
+
+* **Integração de Localização:** Exibição interativa de mapas integrados à interface para que o usuário saiba exatamente onde as instalações estão localizadas.
+
+* **Fluxo Direcionado de Contato e Conversão:** A interface guiará o usuário de forma fluida e intencional pela navegação até alcançar o ponto central de contato. Esse fluxo conduzirá o cliente de maneira natural para a área onde ele poderá agendar a sua primeira aula e consultar qual pacote melhor se encaixa no seu orçamento.
+
+**Diferenciais em relação a soluções existentes**
+Enquanto muitos sites de academias apresentam navegação confusa ou separam completamente suas submarcas (gerando dúvida no cliente), esta solução se destaca por:
+
+* **Foco Total em Conversão e Usabilidade:** O diferencial da interface é o seu layout otimizado para exibir menus de navegação claros, informações detalhadas e imagens de alta qualidade das instalações, garantindo um agendamento rápido e sem distrações visuais.
+
+* **Jornada do Usuário (UX) Direcionada:** A interface consegue pegar dois públicos muito distintos (o responsável por um atleta de 10 anos e um adulto buscando emagrecimento) e guiá-los pelas páginas do site sem atritos, mantendo a percepção de uma empresa sólida e de metodologia única.
+
+* **Consistência e Clareza na Navegação:** Mesmo sendo um site com várias páginas, o front-end focará em transições consistentes, garantindo que o usuário nunca se sinta "saindo" de uma academia e entrando em outra, mas sim navegando pelos diferentes serviços oferecidos pela mesma instituição de excelência.
+
+-------
 
 ## *5. Requisitos de Alto Nível*
 
