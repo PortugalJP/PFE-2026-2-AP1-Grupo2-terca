@@ -55,4 +55,13 @@ Website Institucional e Landing Page de Conversão:
 
 ## 2.1 Oportunidades de Mercado
 
-O mercado de preparação física e academias de alto rendimento enfrenta desafios constantes na comunicação visual de valor, na retenção de alunos e na clareza na prestação de contas dos resultados obtidos. A plataforma web da PKZ One to One surge para capitalizar as seguintes oportunidades estratégicas por meio de uma experiência front-end moderna e centralizada:
+O mercado de preparação física e academias de alto rendimento enfrenta desafios constantes na comunicação visual de valor, na retenção de alunos e na clareza na prestação de contas dos resultados obtidos. A plataforma web da PKZ One to One surge para capitalizar as seguintes oportunidades estratégicas por meio de uma experiência front-end moderna e centralizada.
+
+## Problemas a serem resolvidos
+
+* Sobrecarga de Atendimento por Dúvidas Repetitivas:
+Alto volume de mensagens no WhatsApp perguntando sobre funcionamento, horários e metodologias, devido à falta de uma central de informações clara e acessível no site.
+
+* Falta de Clareza na Diferenciação das Marcas (PKZ vs. One to One):
+Dificuldade do público em compreender que, embora façam parte da mesma estrutura, a PKZ foca no público infanto-juvenil com treino complexo e a One to One atende o público adulto com musculação e treino convencional.
+
