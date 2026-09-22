@@ -89,7 +89,7 @@ Aplicação do design system institucional (predominância de azul e branco) com
 
 O produto a ser desenvolvido é um site institucional com múltiplas páginas que centraliza a presença digital de uma empresa esportiva detentora de duas academias: a **PKZ** (foco em atletas de alto rendimento infanto-juvenis, de 7 a 16 anos) e a **One-to-One** (foco em atletas amadores e público em geral de 17+ anos buscando saúde e condicionamento). O objetivo da interface é distribuir essas informações de forma organizada, deixando claro que ambas as frentes fazem parte da mesma metodologia e do mesmo ecossistema, direcionando o usuário para o serviço correto.
 
-**Principais funcionalidades**
+### 4.1 Principais funcionalidades
 No contexto da interface e da interação do usuário (Front-End), o sistema contará com:
 
 * **Identidade Visual Unificada:** Uma estrutura de navegação distribuída em várias páginas, mas com um design que não fará divisões abruptas de marca. A interface utilizará os mesmos padrões visuais, paleta de cores e tipografia em todo o site para reforçar ao público que a PKZ e a One-to-One são a mesma empresa, trabalhando juntas de forma coesa.
@@ -102,7 +102,7 @@ No contexto da interface e da interação do usuário (Front-End), o sistema con
 
 * **Fluxo Direcionado de Contato e Conversão:** A interface guiará o usuário de forma fluida e intencional pela navegação até alcançar o ponto central de contato. Esse fluxo conduzirá o cliente de maneira natural para a área onde ele poderá agendar a sua primeira aula e consultar qual pacote melhor se encaixa no seu orçamento.
 
-**Diferenciais em relação a soluções existentes**
+### 4.2 Diferenciais em relação a soluções existentes
 Enquanto muitos sites de academias apresentam navegação confusa ou separam completamente suas submarcas (gerando dúvida no cliente), esta solução se destaca por:
 
 * **Foco Total em Conversão e Usabilidade:** O diferencial da interface é o seu layout otimizado para exibir menus de navegação claros, informações detalhadas e imagens de alta qualidade das instalações, garantindo um agendamento rápido e sem distrações visuais.
@@ -177,3 +177,4 @@ __Acesso à Internet Móvel/Wi-Fi pelo Cliente__: O site exige que o cliente ten
 __Comunicação em Tempo Real na Recepção__: Caso o site possua uma área administrativa ou balcão de check-in integrado, a equipe da recepção da academia depende diretamente da internet local para validar cadastros e agendamentos feitos pelo site.
 
 __Provedor de Hospedagem__ :O código-fonte do site e os bancos de dados dependem de servidores ativos e configurados com suporte a tecnologias modernas (Node.js, PHP, Python, bases de dados MySQL/PostgreSQL, etc.)
+
