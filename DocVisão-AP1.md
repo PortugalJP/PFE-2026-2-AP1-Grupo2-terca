@@ -117,23 +117,23 @@ Enquanto muitos sites de academias apresentam navegação confusa ou separam com
 
 ### *Requisitos Funcionais*
 
-- Alternância entre Marcas: A interface deverá permitir alternar entre PKZ e One to One, adaptando os textos, as imagens e as chamadas de ação sem recarregar a página.
-- Contato pelo WhatsApp: A interface deverá disponibilizar botões para abrir o WhatsApp com mensagens pré-formatadas conforme a marca e a seção selecionadas, facilitando o agendamento de aulas experimentais e a solicitação de informações.
-- Quiz Interativo: A interface deverá apresentar perguntas sobre objetivo, faixa etária e frequência de treino, exibir uma recomendação de pacote com base nas respostas e oferecer um botão para solicitar orçamento personalizado pelo WhatsApp.
-- Galeria Interativa: A interface deverá permitir a navegação por fotos dos ambientes e equipamentos, com pontos clicáveis que apresentem informações sobre a finalidade de cada espaço ou equipamento.
-- Painel de Desempenho: A interface deverá permitir que pais e alunos visualizem os resultados dos 16 testes físicos em gráficos de evolução e de radar, com acesso às notas técnicas do treinador associadas às avaliações.
-- Comparação de Avaliações: A interface deverá permitir a seleção de duas datas de avaliação para comparar os resultados lado a lado, destacando as variações percentuais de desempenho.
-- Exportação de Relatórios: A interface deverá permitir gerar e baixar um relatório visual em formato de imagem (PNG), contendo gráficos e notas técnicas, para facilitar o compartilhamento dos resultados.
-- Agenda dos Treinadores: A interface deverá apresentar os alunos agendados para o dia em cartões com sinalizações de dor relatada, carga elevada ou treino regular, facilitando a consulta antes de cada atendimento.
-- Feedback Rápido: A interface deverá oferecer opções clicáveis para registrar observações da sessão, como dor, foco em mobilidade, treino intenso e ajuste de carga, compondo automaticamente uma nota para o próximo atendimento.
+- __Alternância entre Marcas:__ A interface deverá permitir alternar entre PKZ e One to One, adaptando os textos, as imagens e as chamadas de ação sem recarregar a página.
+- __Contato pelo WhatsApp:__ A interface deverá disponibilizar botões para abrir o WhatsApp com mensagens pré-formatadas conforme a marca e a seção selecionadas, facilitando o agendamento de aulas experimentais e a solicitação de informações.
+- __Quiz Interativo:__ A interface deverá apresentar perguntas sobre objetivo, faixa etária e frequência de treino, exibir uma recomendação de pacote com base nas respostas e oferecer um botão para solicitar orçamento personalizado pelo WhatsApp.
+- __Galeria Interativa:__ A interface deverá permitir a navegação por fotos dos ambientes e equipamentos, com pontos clicáveis que apresentem informações sobre a finalidade de cada espaço ou equipamento.
+- __Painel de Desempenho:__ A interface deverá permitir que pais e alunos visualizem os resultados dos 16 testes físicos em gráficos de evolução e de radar, com acesso às notas técnicas do treinador associadas às avaliações.
+- __Comparação de Avaliações:__ A interface deverá permitir a seleção de duas datas de avaliação para comparar os resultados lado a lado, destacando as variações percentuais de desempenho.
+- __Exportação de Relatórios:__ A interface deverá permitir gerar e baixar um relatório visual em formato de imagem (PNG), contendo gráficos e notas técnicas, para facilitar o compartilhamento dos resultados.
+- __Agenda dos Treinadores:__ A interface deverá apresentar os alunos agendados para o dia em cartões com sinalizações de dor relatada, carga elevada ou treino regular, facilitando a consulta antes de cada atendimento.
+- __Feedback Rápido:__ A interface deverá oferecer opções clicáveis para registrar observações da sessão, como dor, foco em mobilidade, treino intenso e ajuste de carga, compondo automaticamente uma nota para o próximo atendimento.
 
 ### *Requisitos Não Funcionais*
 
-- Interface Amigável: A plataforma deverá possuir uma interface intuitiva, objetiva e de fácil utilização, com navegação clara para visitantes, alunos, responsáveis e treinadores.
-- Responsividade: A interface deverá adaptar-se a celulares, tablets e computadores, mantendo textos legíveis e botões com tamanho e espaçamento adequados à interação por toque.
-- Consistência Visual: A interface deverá seguir a identidade visual das marcas, mantendo a base institucional em azul e branco, com destaques específicos para PKZ e One to One e padronização de botões, cartões e formulários.
-- Acessibilidade: A interface deverá apresentar contraste adequado, permitir navegação por teclado e identificar alertas com textos ou ícones, sem depender exclusivamente de cores.
-- Desempenho: A interface deverá otimizar o carregamento de imagens e gráficos e apresentar transições suaves, sem bloquear a navegação ou a interação com os componentes.
+- __Interface Amigável:__ A plataforma deverá possuir uma interface intuitiva, objetiva e de fácil utilização, com navegação clara para visitantes, alunos, responsáveis e treinadores.
+- __Responsividade:__ A interface deverá adaptar-se a celulares, tablets e computadores, mantendo textos legíveis e botões com tamanho e espaçamento adequados à interação por toque.
+- __Consistência Visual:__ A interface deverá seguir a identidade visual das marcas, mantendo a base institucional em azul e branco, com destaques específicos para PKZ e One to One e padronização de botões, cartões e formulários.
+- __Acessibilidade:__ A interface deverá apresentar contraste adequado, permitir navegação por teclado e identificar alertas com textos ou ícones, sem depender exclusivamente de cores.
+- __Desempenho:__ A interface deverá otimizar o carregamento de imagens e gráficos e apresentar transições suaves, sem bloquear a navegação ou a interação com os componentes.
 
 ---
 
@@ -141,19 +141,19 @@ Enquanto muitos sites de academias apresentam navegação confusa ou separam com
 
 ### *Restrições*
 
-- Tempo limitado.
-- Infraestrutura limitada.
-- Orçamento limitado.
-- Inexistência de uma equipe de TI para manutenções e adições.
+- __Tempo limitado.__
+- __Infraestrutura limitada.__
+- __Orçamento limitado.__
+- __Inexistência de uma equipe de TI para manutenções e adições.__
 
 ---
 
 ## *Premissas*
 
-- Haverá uma ótima adesão dos clientes ao novo sistema.
-- Haverá uma mobilização da empresa para a contratação de serviços de TI.
-- As novas ferramentas da platafoma serão um diferencial da empresa no mercado.
-- Profissionalização do uso da marca de forma geral.
+- __Haverá uma ótima adesão dos clientes ao novo sistema.__
+- __Haverá uma mobilização da empresa para a contratação de serviços de TI.__
+- __As novas ferramentas da platafoma serão um diferencial da empresa no mercado.__
+- __Profissionalização do uso da marca de forma geral.__
 
 ---
 # 7. Riscos e Dependências
