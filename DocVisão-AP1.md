@@ -79,3 +79,24 @@ Desenvolvimento de uma arquitetura de navegação com páginas e blocos específ
 Aplicação do design system institucional (predominância de azul e branco) combinado a uma galeria de imagens atualizadas do espaço físico e equipamentos, transmitindo profissionalismo e modernidade.
 
 -------
+# 7. Riscos e Dependências
+
+## 7.1 Riscos:
+
+__Vazamento de Dados Pessoais e Sensíveis__: Risco de invasão ou brecha de segurança expor dados cadastrais dos alunos
+
+__Fraudes em Transações de Cartão de Crédito__: Tentativas de chargeback, transações fraudulentas ou ataques do tipo brute force no checkout online.
+
+__Queda do Servidor / Indisponibilidade__: Indisponibilidade do site em momentos críticos de campanhas de marketing ou matrículas
+
+__Lentidão no Carregamento__: Tempo de resposta alto devido ao carregamento de mídias pesadas (vídeos de treinos, imagens de alta resolução da estrutura)
+
+
+## 7.2 Depêndencias
+
+__Acesso à Internet Móvel/Wi-Fi pelo Cliente__: O site exige que o cliente tenha uma conexão de internet estável (3G/4G/5G ou Wi-Fi) para visualizar a grade de aulas, efetuar pagamentos ou agendar aulas experimentais.
+
+
+__Comunicação em Tempo Real na Recepção__: Caso o site possua uma área administrativa ou balcão de check-in integrado, a equipe da recepção da academia depende diretamente da internet local para validar cadastros e agendamentos feitos pelo site.
+
+__Provedor de Hospedagem__ :O código-fonte do site e os bancos de dados dependem de servidores ativos e configurados com suporte a tecnologias modernas (Node.js, PHP, Python, bases de dados MySQL/PostgreSQL, etc.)
