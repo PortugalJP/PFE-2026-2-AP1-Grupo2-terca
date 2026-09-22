@@ -21,7 +21,7 @@ Este documento contempla os diferentes perfis de usuários que interagirão com 
 
 *__Equipe de Desenvolvimento Front-End e Designers UX/UI__*: Desenvolvedores e designers responsáveis por construir o layout, aplicar o design system e implementar as interações de tela descritas neste documento.
 
-## Escopo do Sistema
+## 1.3 Escopo do Sistema
 
 O escopo desta aplicação abrange exclusivamente o desenvolvimento front-end da plataforma web da PKZ One to One, contemplando o layout, os componentes de interface, a responsividade e o comportamento no lado do cliente (client-side).
 
@@ -63,7 +63,7 @@ Geralmente, academias falham ao tentar se comunicar simultaneamente com público
 * __Otimização do Fluxo de Conversão (Lead Generation sem Fricção):__
 A ausência de preços engessados e a substituição de tabelas estáticas por pontos de contato dinâmicos (CTAs focados em agendamento de aulas experimentais) permitem engajar o visitante e direcioná-lo diretamente para a conversão via WhatsApp, onde a negociação personalizada acontece de forma humanizada.
 
-## Problemas a serem resolvidos
+## 2.2 Problemas a serem resolvidos
 
 * Sobrecarga de Atendimento por Dúvidas Repetitivas:
 Alto volume de mensagens no WhatsApp perguntando sobre funcionamento, horários e metodologias, devido à falta de uma central de informações clara e acessível no site.
@@ -178,3 +178,10 @@ __Comunicação em Tempo Real na Recepção__: Caso o site possua uma área admi
 
 __Provedor de Hospedagem__ :O código-fonte do site e os bancos de dados dependem de servidores ativos e configurados com suporte a tecnologias modernas (Node.js, PHP, Python, bases de dados MySQL/PostgreSQL, etc.)
 
+
+[1.  Introdução](#1-introdução) [1.1 Objetivo do documento](#11-objetivo-do-documento) [1.2 Publico alvo](#12-público-alvo) [1.3 Escopo do sistema](#13-escopo-do-sistema)
+
+[1.3.1 Funcionalidades e telas incluídas no escopo](#131-funcionalidades-e-telas-incluídas-no-escopo) [2.Posicionamento](#2-posicionamento)
+
+
+[2.1 oportuidades de mercado](#21-oportunidades-de-mercado)
