@@ -57,6 +57,12 @@ Website Institucional e Landing Page de Conversão:
 
 O mercado de preparação física e academias de alto rendimento enfrenta desafios constantes na comunicação visual de valor, na retenção de alunos e na clareza na prestação de contas dos resultados obtidos. A plataforma web da PKZ One to One surge para capitalizar as seguintes oportunidades estratégicas por meio de uma experiência front-end moderna e centralizada.
 
+* __Segmentação Visual Eficiente de Públicos (Dual Branding):__
+Geralmente, academias falham ao tentar se comunicar simultaneamente com públicos díspares. A aplicação front-end permite criar uma arquitetura de navegação intuitiva que separa e valoriza o posicionamento da PKZ (atletas infanto-juvenis e treino complexo) e da One to One (musculação e condicionamento para adultos), sem perder a unidade da marca mãe.
+
+* __Otimização do Fluxo de Conversão (Lead Generation sem Fricção):__
+A ausência de preços engessados e a substituição de tabelas estáticas por pontos de contato dinâmicos (CTAs focados em agendamento de aulas experimentais) permitem engajar o visitante e direcioná-lo diretamente para a conversão via WhatsApp, onde a negociação personalizada acontece de forma humanizada.
+
 ## Problemas a serem resolvidos
 
 * Sobrecarga de Atendimento por Dúvidas Repetitivas:
