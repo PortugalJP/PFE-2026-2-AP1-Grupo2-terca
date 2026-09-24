@@ -133,7 +133,7 @@ Os alunos da One to One priorizam acesso fácil aos treinos do dia e acompanhame
 
 ---
 
-###4. Visão Geral do Produto
+### 4. Visão Geral do Produto
 
 O produto a ser desenvolvido é um site institucional com múltiplas páginas que centraliza a presença digital de uma empresa esportiva detentora de duas academias: a **PKZ** (foco em atletas de alto rendimento infanto-juvenis, de 7 a 16 anos) e a **One-to-One** (foco em atletas amadores e público em geral de 17+ anos buscando saúde e condicionamento). O objetivo da interface é distribuir essas informações de forma organizada, deixando claro que ambas as frentes fazem parte da mesma metodologia e do mesmo ecossistema, direcionando o usuário para o serviço correto.
 
