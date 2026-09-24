@@ -90,35 +90,46 @@ Aplicação do design system institucional (predominância de azul e branco) com
 
 ### 3.1 *Resumo dos Stakeholders*
 
-- **Proprietários da academia** — são os responsáveis pela decisão estratégica e financeira do projeto. Buscam um site que amplie a captação de atletas, fortaleça a marca e otimize a gestão do negócio.
-- **Equipe técnica/administrativa** —  composta por treinadores, preparadores físicos e recepcionistas que operam o sistema no dia a dia, alimentando dados de treino e desempenho dos atletas.
-- **Equipe de desenvolvimento** — responsável por projetar, implementar e manter o site conforme os requisitos levantados pelos demais stakeholders.
+- **Proprietários da academia** — são os responsáveis pela decisão estratégica e financeira do projeto, respondendo tanto pela unidade PKZ, voltada ao treinamento de alto rendimento infanto-juvenil, quanto pela One to One, voltada à musculação e condicionamento de adultos. Buscam um site que comunique claramente essas duas frentes, amplie a captação de atletas e alunos em ambos os públicos e otimize a gestão integrada do negócio.
+
+- **Equipe técnica/administrativa** —  composta por treinadores e preparadores físicos especializados em cada frente — os que atuam na PKZ, com foco em performance esportiva de crianças e adolescentes, e os que atuam na One to One, com foco em musculação e condicionamento para adultos —, além de recepcionistas responsáveis pelo atendimento geral. Alimentam o sistema com dados de treino e desempenho dos alunos de ambos os programas.
+
+- **Equipe de desenvolvimento** —responsável por projetar, implementar e manter o site, garantindo que a estrutura do sistema comporte adequadamente as particularidades de cada programa (PKZ e One to One).
 
 ---
 
 ### 3.2 **Resumo dos usuários**
 
-- **Administrador** - (proprietário/staff): usuário que gerencia o site e a operação da academia através do sistema. É responsável por cadastrar atletas, criar e editar planos de treino, gerenciar agendamentos e acompanhar relatórios de desempenho e financeiros.
+- **Administrador** - (proprietário/staff): usuário que gerencia o site e a operação da academia através do sistema, atuando tanto sobre os alunos da PKZ quanto da One to One. É responsável por cadastrar atletas e alunos, criar e editar planos de treino específicos para cada programa, gerenciar agendamentos e acompanhar relatórios de desempenho e financeiros.
 
-- **Atleta/Aluno** - usuário final que consome os serviços da academia através do site. Utiliza o sistema para visualizar treinos personalizados, acompanhar sua evolução de performance, agendar sessões e se comunicar com treinadores.
+- **Atleta(PKZ)** - usuário infanto-juvenil, geralmente com acesso mediado ou acompanhado por pais/responsáveis, que participa do programa de treinamento complexo e alto rendimento. Utiliza (ou tem seu responsável utilizando) o sistema para acompanhar treinos, evolução de performance esportiva e agendamentos.
 
--**Visitante** - usuário não cadastrado que navega pelo site em busca de informações institucionais, planos e serviços oferecidos, geralmente como etapa anterior à matrícula.
+- **Atleta(One-to-One)** - usuário adulto que participa do programa de musculação e condicionamento físico. Utiliza o sistema para visualizar treinos personalizados, acompanhar sua evolução física e agendar sessões.
+
+-**Visitante** - usuário não cadastrado que navega pelo site em busca de informações sobre os dois programas — PKZ e One to One —, geralmente como etapa anterior à matrícula em um deles.
 
 ---
 
 ### 3.3 *Ambiente do usuário*
-Os administradores e a equipe de staff acessam o sistema majoritariamente por meio de desktop ou notebook, dentro da própria academia, em ambiente de trabalho com conexão estável, frequentemente durante o expediente e entre atendimentos.
-Atletas e alunos acessam o site predominantemente via dispositivos móveis (smartphones), em diversos contextos do dia a dia — antes ou depois dos treinos, em trânsito, em casa —, o que exige uma interface responsiva e de fácil uso mesmo em conexões instáveis.
-Já os visitantes, acessam tanto por desktop quanto por mobile, geralmente vindos de redes sociais, buscadores ou indicações, estando em seu primeiro contato com a marca.
+Os administradores e a equipe de staff acessam o sistema majoritariamente por meio de desktop ou notebook, dentro da própria academia, gerenciando de forma integrada as informações de ambos os programas, PKZ e One to One.
+
+Os alunos da One to One acessam o site predominantemente via dispositivos móveis, em diversos momentos do dia a dia — antes ou depois dos treinos, em trânsito, em casa —, exigindo uma interface responsiva e de fácil uso.
+
+No caso da PKZ, por se tratar de público infanto-juvenil, o acesso ao sistema tende a ocorrer com apoio ou supervisão dos pais/responsáveis, tanto via mobile quanto desktop, o que reforça a necessidade de uma interface simples e de fácil compreensão também para esse público adulto intermediário.
+
+Os administradores e a equipe de staff acessam o sistema majoritariamente por meio de desktop ou notebook, dentro da própria academia, gerenciando de forma integrada as informações de ambos os programas, PKZ e One to One.
+
+Já os visitantes, acessam tanto por desktop quanto por mobile, geralmente vindos de redes sociais, buscadores ou indicações, buscando entender qual dos dois programas melhor atende à sua necessidade (ou de seu filho/filha).
+
 
 ---
 
 ### 3.4 *Necessidades-Chave dos Stakeholders*
-Os proprietários da academia têm como necessidades prioritárias uma ferramenta de gestão centralizada que reúna alunos, treinos e agenda em um só lugar, além do aumento da captação de novos atletas por meio do site. Também valorizam relatórios de desempenho do negócio e uma imagem profissional e confiável da marca.
+Os proprietários da academia têm como necessidade prioritária uma ferramenta de gestão centralizada que contemple, de forma organizada, tanto a operação da PKZ quanto da One to One, permitindo diferenciar claramente os dois públicos e programas no site. Também buscam aumentar a captação de novos atletas jovens e alunos adultos, além de relatórios de desempenho do negócio por unidade/programa.
 
-A equipe de staff necessita, principalmente, de uma redução do trabalho manual e administrativo, com processos mais ágeis de cadastro e acompanhamento dos alunos.
+A equipe de staff necessita de processos ágeis para cadastro e acompanhamento tanto dos atletas infanto-juvenis da PKZ quanto dos alunos adultos da One to One, com planos de treino adaptados às particularidades de cada grupo.
 
-Os atletas, por sua vez, priorizam o acesso fácil e rápido aos treinos do dia e o acompanhamento visual da sua evolução de performance, além de uma comunicação direta e simples com seus treinadores.
+Os alunos da One to One priorizam acesso fácil aos treinos do dia e acompanhamento da evolução física. Já para a PKZ, a necessidade-chave envolve uma comunicação clara com os responsáveis, permitindo o acompanhamento da evolução esportiva dos atletas infanto-juvenis de forma acessível e confiável.
 
 ---
 
