@@ -106,7 +106,7 @@ Aplicação do design system institucional (predominância de azul e branco) com
 
 - **Atleta(One-to-One)** - usuário adulto que participa do programa de musculação e condicionamento físico. Utiliza o sistema para visualizar treinos personalizados, acompanhar sua evolução física e agendar sessões.
 
--**Visitante** - usuário não cadastrado que navega pelo site em busca de informações sobre os dois programas — PKZ e One to One —, geralmente como etapa anterior à matrícula em um deles.
+- **Visitante** - usuário não cadastrado que navega pelo site em busca de informações sobre os dois programas — PKZ e One to One —, geralmente como etapa anterior à matrícula em um deles.
 
 ---
 
