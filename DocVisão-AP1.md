@@ -90,6 +90,10 @@ Aplicação do design system institucional (predominância de azul e branco) com
 
 ### 3.1 *Resumo dos Stakeholders*
 
+- **Proprietários da academia** — são os responsáveis pela decisão estratégica e financeira do projeto. Buscam um site que amplie a captação de atletas, fortaleça a marca e otimize a gestão do negócio.
+- **Equipe técnica/administrativa** —  composta por treinadores, preparadores físicos e recepcionistas que operam o sistema no dia a dia, alimentando dados de treino e desempenho dos atletas.
+- **Equipe de desenvolvimento** — responsável por projetar, implementar e manter o site conforme os requisitos levantados pelos demais stakeholders.
+
 ### 4. Visão Geral do Produto
 
 O produto a ser desenvolvido é um site institucional com múltiplas páginas que centraliza a presença digital de uma empresa esportiva detentora de duas academias: a **PKZ** (foco em atletas de alto rendimento infanto-juvenis, de 7 a 16 anos) e a **One-to-One** (foco em atletas amadores e público em geral de 17+ anos buscando saúde e condicionamento). O objetivo da interface é distribuir essas informações de forma organizada, deixando claro que ambas as frentes fazem parte da mesma metodologia e do mesmo ecossistema, direcionando o usuário para o serviço correto.
