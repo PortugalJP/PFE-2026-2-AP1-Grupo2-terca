@@ -94,7 +94,35 @@ Aplicação do design system institucional (predominância de azul e branco) com
 - **Equipe técnica/administrativa** —  composta por treinadores, preparadores físicos e recepcionistas que operam o sistema no dia a dia, alimentando dados de treino e desempenho dos atletas.
 - **Equipe de desenvolvimento** — responsável por projetar, implementar e manter o site conforme os requisitos levantados pelos demais stakeholders.
 
-### 4. Visão Geral do Produto
+---
+
+### 3.2 **Resumo dos usuários**
+
+- **Administrador** - (proprietário/staff): usuário que gerencia o site e a operação da academia através do sistema. É responsável por cadastrar atletas, criar e editar planos de treino, gerenciar agendamentos e acompanhar relatórios de desempenho e financeiros.
+
+- **Atleta/Aluno** - usuário final que consome os serviços da academia através do site. Utiliza o sistema para visualizar treinos personalizados, acompanhar sua evolução de performance, agendar sessões e se comunicar com treinadores.
+
+-**Visitante** - usuário não cadastrado que navega pelo site em busca de informações institucionais, planos e serviços oferecidos, geralmente como etapa anterior à matrícula.
+
+---
+
+### 3.3 *Ambiente do usuário*
+Os administradores e a equipe de staff acessam o sistema majoritariamente por meio de desktop ou notebook, dentro da própria academia, em ambiente de trabalho com conexão estável, frequentemente durante o expediente e entre atendimentos.
+Atletas e alunos acessam o site predominantemente via dispositivos móveis (smartphones), em diversos contextos do dia a dia — antes ou depois dos treinos, em trânsito, em casa —, o que exige uma interface responsiva e de fácil uso mesmo em conexões instáveis.
+Já os visitantes, acessam tanto por desktop quanto por mobile, geralmente vindos de redes sociais, buscadores ou indicações, estando em seu primeiro contato com a marca.
+
+---
+
+### 3.4 *Necessidades-Chave dos Stakeholders*
+Os proprietários da academia têm como necessidades prioritárias uma ferramenta de gestão centralizada que reúna alunos, treinos e agenda em um só lugar, além do aumento da captação de novos atletas por meio do site. Também valorizam relatórios de desempenho do negócio e uma imagem profissional e confiável da marca.
+
+A equipe de staff necessita, principalmente, de uma redução do trabalho manual e administrativo, com processos mais ágeis de cadastro e acompanhamento dos alunos.
+
+Os atletas, por sua vez, priorizam o acesso fácil e rápido aos treinos do dia e o acompanhamento visual da sua evolução de performance, além de uma comunicação direta e simples com seus treinadores.
+
+---
+
+###4. Visão Geral do Produto
 
 O produto a ser desenvolvido é um site institucional com múltiplas páginas que centraliza a presença digital de uma empresa esportiva detentora de duas academias: a **PKZ** (foco em atletas de alto rendimento infanto-juvenis, de 7 a 16 anos) e a **One-to-One** (foco em atletas amadores e público em geral de 17+ anos buscando saúde e condicionamento). O objetivo da interface é distribuir essas informações de forma organizada, deixando claro que ambas as frentes fazem parte da mesma metodologia e do mesmo ecossistema, direcionando o usuário para o serviço correto.
 
