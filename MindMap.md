@@ -120,4 +120,4 @@
 
 ![alt text](./imagens/mindmap_pkz_one_to_one-v2.png)
 
-##### __Imagem meramente ilustratuva__
+##### __*Imagem meramente ilustratuva*__
