@@ -117,3 +117,9 @@
   - FAQ (sem tabela de preços)
   - Contato / WhatsApp
   - Aula experimental (landing/CTA)
+
+  ![alt text](mindmap-pkz-one-to-one.png)
+
+
+
+  #### __*Imagem da galeria meramente ilustrativa*__
