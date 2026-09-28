@@ -118,8 +118,6 @@
   - Contato / WhatsApp
   - Aula experimental (landing/CTA)
 
-  ![alt text](mindmap-pkz-one-to-one.png)
+![alt text](./imagens/mindmap_pkz_one_to_one-v2.png)
 
-
-
-  #### __*Imagem da galeria meramente ilustrativa*__
+##### __Imagem meramente ilustratuva__
