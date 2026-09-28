@@ -107,19 +107,7 @@
     - Estrutura disponível
   - **Objetivo do Ramo:** Transmitir confiança e valorizar a estrutura do local
 
-- **7. Módulo de Desempenho e Avaliações**
-  - **Métricas e Relatórios**
-    - Histórico dos 16 testes físicos em gráficos
-    - Visualização evolutiva e comparativa
-    - Identificação de melhora/regressão
-    - Tendências de desempenho
-    - Formato de laudo comparativo
-  - **Observações do Treinador**
-    - Bloco descritivo ou pop-up
-    - Explicação de variações métricas
-    - Contexto para evitar interpretações isoladas
-
-- **8. Páginas e Fluxos**
+- **7. Páginas e Fluxos**
   - Home (apresentação da marca e diferenciais)
   - PKZ (público infanto-juvenil)
   - One to One (público adulto)
