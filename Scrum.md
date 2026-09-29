@@ -48,12 +48,8 @@ O projeto iniciou-se em **24/08/2026** e contempla a entrega do protótipo/prime
 * **US08 - Agenda Interativa:** Como visitante, quero consultar uma simulação de agenda com dias e horários vagos para planejar minha aula experimental.
 * **US09 - Conversão via WhatsApp:** Como visitante, quero confirmar meu agendamento gerando uma mensagem pré-formatada para o WhatsApp da recepção.
 
-### Épico 4: Área do Aluno & Painel de Desempenho
-* **US10 - Dashboard de Testes Físicos:** Como aluno/responsável, quero visualizar gráficos de linha e de radar com os resultados dos 16 testes físicos e observações técnicas.
-* **US11 - Comparativo de Avaliações:** Como aluno, quero comparar o resultado de duas datas de avaliação lado a lado com variações percentuais.
-* **US12 - Exportação em PNG:** Como aluno/responsável, quero exportar o relatório de desempenho em formato de imagem para compartilhamento.
 
-### Épico 5: Módulo Administrativo / Staff
+### Épico 4: Módulo Administrativo / Staff
 * **US13 - Visão Geral do Treinador:** Como treinador, quero visualizar os alunos agendados no dia em cartões com alertas visuais (sinal de dor, carga elevada, treino regular).
 * **US14 - Registro Rápido de Feedback:** Como treinador, quero registrar notas da sessão através de botões interativos para atualizar o histórico do aluno.
 
