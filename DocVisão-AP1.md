@@ -36,11 +36,11 @@ Website Institucional e Landing Page de Conversão:
 
 ### Design System e Interface (UI/UX):
 
-* Identidade Visual: Aplicação rigorosa da paleta de cores institucional (predominância de azul e branco). Sendo a paleta de cores da __One to One e PKZ__ compostas por: #b3ecff, #00bbff, #014c6f, #000000, #06121A, #0B2230.
+* Identidade Visual: Aplicação rigorosa da paleta de cores institucional (predominância de azul e branco). Sendo a paleta de cores da __One to One e PKZ__ compostas por: #b3ecff, #00bbff, #014c6f, #000000, #06121A, #0B2230, #d9d9d9
 
 * Componentes Reutilizáveis: Construção de botões, cards, modais e formulários padronizados.
 
-* Responsividade: Layout adaptável para dispositivos desktops.
+* Responsividade: Layout adaptável para dispositivos smartphones, phablets, tablets e desktops.
 
 
 ---
