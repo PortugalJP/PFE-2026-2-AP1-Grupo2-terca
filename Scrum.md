@@ -113,6 +113,6 @@ v
 ## 6. Governança e Ritos Scrum
 
 * **Sprint Planning:** Realizada no início de cada ciclo de 2 semanas (1h). Definição do *Sprint Goal* e seleção dos itens do backlog.
-* **Daily Scrum:** Encontros diários de 15 minutos para alinhamento de progresso e identificação de impedimentos.
+* **Weekand Scrum:** Encontros semanais de 15 minutos para alinhamento de progresso e identificação de impedimentos.
 * **Sprint Review:** Apresentação dos componentes e fluxos construídos ao final de cada Sprint (30 min).
 * **Sprint Retrospective:** Análise interna da equipe sobre processos, uso do Git/Figma e pontos de melhoria técnica (30 min).
