@@ -26,8 +26,8 @@ O projeto iniciou-se em **24/08/2026** e contempla a entrega do protótipo/prime
 | **Sprint 0** | 24/08 a 06/09 | Entendimento & Arquitetura | Documento de Visão, 5W2H, AHT, mapa de empatia e alinhamento inicial. |
 | **Sprint 1** | 07/09 a 20/09 | UX/UI & Design System | Protótipo de alta fidelidade (Figma), guia de estilos, paleta e componentes base. |
 | **Sprint 2** | 21/09 a 04/10 | Landing Page & Marcas | Shell da aplicação, alternância PKZ / One to One, FAQ interativo e galeria. |
-| **Sprint 3** | 05/10 a 18/10 | Conversão & Agendamento | Quiz interativo de recomendação, simulação de agenda e CTAs do WhatsApp. |
-| **Sprint 4** | 19/10 a 28/10 | Dashboards & Refinamento | Painel de avaliações (gráficos/radar), acessibilidade, responsividade e preparação da entrega. |
+| **Sprint 3** | 05/10 a 18/10 | Conversão & Agendamento | Simulação de agenda e CTAs do WhatsApp. |
+| **Sprint 4** | 19/10 a 28/10 | Dashboards & Refinamento | Painel de avaliações, acessibilidade, responsividade e preparação da entrega. |
 
 ---
 
