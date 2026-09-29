@@ -91,8 +91,8 @@ O projeto iniciou-se em **24/08/2026** e contempla a entrega do protótipo/prime
 
 +-----------------------------------------------------------------------+
 |                     DEFINITION OF READY (DoR)                         |
-|  1. User Story no formato "Como / Quero / Para".                       |
-|  2. Critérios de aceite validados pelo PO.                             |
+|  1. User Story no formato "Como / Quero / Para".                      |
+|  2. Critérios de aceite validados pelo PO.                            |
 |  3. Protótipo/Wireframe da tela disponível no Figma.                  |
 |  4. Dependências técnicas identificadas.                              |
 +-----------------------------------------------------------------------+
