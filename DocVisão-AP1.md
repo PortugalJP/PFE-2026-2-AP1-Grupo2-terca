@@ -40,7 +40,7 @@ Website Institucional e Landing Page de Conversão:
 
 * Componentes Reutilizáveis: Construção de botões, cards, modais e formulários padronizados.
 
-* Responsividade: Layout adaptável para dispositivos smartphones, phablets, tablets e desktops.
+* Responsividade: Layout adaptável para dispositivos mobiles, phablets, e desktops.
 
 
 ---
