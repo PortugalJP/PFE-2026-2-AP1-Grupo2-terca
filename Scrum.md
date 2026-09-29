@@ -50,7 +50,8 @@ O projeto iniciou-se em **24/08/2026** e contempla a entrega do protótipo/prime
 
 
 ### Épico 4: Módulo Administrativo / Staff
-* **US13 - Visão Geral do Treinador:** Como treinador, quero visualizar os alunos agendados no dia em cartões com alertas visuais (sinal de dor, carga elevada, treino regular).
+* **US13 - Visão Geral do Treinador:** Como treinador, quero visualizar os alunos agendados no dia em cartões com alertas visuais.
+
 * **US14 - Registro Rápido de Feedback:** Como treinador, quero registrar notas da sessão através de botões interativos para atualizar o histórico do aluno.
 
 ---
@@ -100,9 +101,9 @@ v
 +-----------------------------------------------------------------------+
 |                     DEFINITION OF DONE (DoD)                          |
 |  1. Código desenvolvido e modularizado em componentes.                |
-|  2. Layout 100% responsivo (Mobile, Tablet e Desktop).                |
+|  2. Layout 100% responsivo (Mobile, Phablet e Desktop).               |
 |  3. Suporte aos modos Light e Dark implementado.                      |
-|  4. Contraste e acessibilidade validados (WCAG AA).                  |
+|  4. Contraste e acessibilidade validados (WCAG AA).                   |
 |  5. Code review aprovado no repositório Git.                          |
 |  6. Homologação efetuada pelo Product Owner.                          |
 +-----------------------------------------------------------------------+
