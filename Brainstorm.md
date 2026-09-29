@@ -74,7 +74,7 @@
 
 ## 5. Brainstorming de Governança, Sprints e Qualidade
 
-* **Divisão de Sprints (Marco de entrega: 28/10/2026):**
+* **Divisão de Sprints (Marco de entrega: À definir):**
   * *Sprint 0 (24/08 a 06/09):* Levantamento de requisitos, Visão do Produto e 5W2H.
   * *Sprint 1 (07/09 a 20/09):* Protótipo no Figma, Design System e modo claro/escuro.
   * *Sprint 2 (21/09 a 04/10):* Shell do site, alternância PKZ/One to One, galeria e FAQ.
