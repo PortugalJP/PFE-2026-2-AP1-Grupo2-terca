@@ -15,10 +15,6 @@ Este documento contempla os diferentes perfis de usuários que interagirão com 
 
 *__Visitantes / Alunos em Potencial (Leads)__*: Pessoas interessadas em conhecer o centro de treinamento. Necessitam de uma navegação fluida na landing page, entendimento claro sobre os diferenciais entre as marcas e pontos diretos de conversão para agendamento de aula experimental (via WhatsApp).
 
-*__Pais e Responsáveis por Atletas (PKZ – 7 a 15 anos)__*: Responsáveis por atletas infantojuvenis que acessarão o painel para acompanhar o desenvolvimento físico dos jovens.
-
-*__Alunos Adultos (One to One – 17 a 90 anos)__*: Praticantes de musculação e treinamento convencional que buscam uma interface objetiva e de fácil acesso para visualizar informações sobre seus treinos e horários.
-
 *__Equipe de Desenvolvimento Front-End e Designers UX/UI__*: Desenvolvedores e designers responsáveis por construir o layout, aplicar o design system e implementar as interações de tela descritas neste documento.
 
 ## 1.3 Escopo do Sistema
@@ -40,11 +36,11 @@ Website Institucional e Landing Page de Conversão:
 
 ### Design System e Interface (UI/UX):
 
-* Identidade Visual: Aplicação rigorosa da paleta de cores institucional (predominância de azul e branco). Sendo a paleta de cores da __One to One e PKZ__ compostas por: #b3ecff, #00bbff, #014c6f, #000000.
+* Identidade Visual: Aplicação rigorosa da paleta de cores institucional (predominância de azul e branco). Sendo a paleta de cores da __One to One e PKZ__ compostas por: #b3ecff, #00bbff, #014c6f, #000000, #06121A, #0B2230.
 
 * Componentes Reutilizáveis: Construção de botões, cards, modais e formulários padronizados.
 
-* Responsividade: Layout adaptável para dispositivos móveis, tablets e desktops.
+* Responsividade: Layout adaptável para dispositivos desktops.
 
 
 ---
